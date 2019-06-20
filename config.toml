@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "pfd's hugo playground"
+theme = "hugo-theme-docdock"
